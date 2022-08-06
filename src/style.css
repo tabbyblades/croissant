@@ -1,0 +1,31 @@
+h1,p{
+    text-align: center;
+}
+
+.navigation-links{
+    text-align: center;
+}
+
+.navigation-links a{
+    text-decoration: none;
+    margin: 30px;
+    font-weight:bold;
+    font-size: larger;
+    color: black;
+}
+
+.email-link{
+color:black;
+text-decoration: none;
+font-weight: bold;
+}
+
+img{
+    display: block;
+    max-width: 100%;
+    border-radius: 4px;
+    margin: 30px auto;
+}
+body{
+    background-color: bisque;
+}
